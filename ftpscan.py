@@ -1,5 +1,4 @@
-import sys
-import socket
+import sys,socket
 
 def prPink(skk): print("\033[95m{}\033[00m" .format(skk))
 def prRed(skk): print("\033[91m{}\033[00m" .format(skk))
